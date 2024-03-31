@@ -1,0 +1,4 @@
+﻿  Queue tests.cpp
+D:\c++\Queue\Queue tests\Queue tests.cpp(84,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\c++\Queue\Queue tests\Queue tests.cpp(192,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Queue tests.vcxproj -> D:\c++\Queue\x64\Debug\Queue tests.dll
