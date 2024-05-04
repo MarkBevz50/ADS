@@ -1,3 +1,0 @@
-﻿  Dijkstra tests.cpp
-D:\c++\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra.h(13,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Dijkstra tests.vcxproj -> D:\c++\Dijkstra Algorithm\x64\Debug\Dijkstra tests.dll
